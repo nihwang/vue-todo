@@ -1,6 +1,6 @@
-# Vue Skeleon
+# Vue Todo with Vuex
 
-A skeleton to quickly set up Vue.js for a project.
+A simple Todo app done with Vue and Vuex
 
 **Libraries included**:
 - Bootstrap

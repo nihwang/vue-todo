@@ -1,7 +1,7 @@
 {
-  "name": "vue_skeleton",
+  "name": "vue_todo",
   "version": "1.0.0",
-  "description": "Vue.js Skeleton",
+  "description": "A simple vue todo app with vuex",
   "author": "Nina Hwang <nihwang12@gmail.com>",
   "private": true,
   "scripts": {
@@ -17,7 +17,8 @@
     "element-ui": "^1.1.6",
     "express": "^4.14.0",
     "normalize.css": "^5.0.0",
-    "vue": "^2.1.0"
+    "vue": "^2.1.0",
+    "vuex": "^2.2.1"
   },
   "devDependencies": {
     "autoprefixer": "^6.4.0",
