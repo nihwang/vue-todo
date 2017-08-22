@@ -1,6 +1,6 @@
 # Vue Todo with Vuex
 
-A simple Todo app done with Vue and Vuex
+A simple Todo app done with Vue and Vuex!
 
 **Libraries included**:
 - Bootstrap
